@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 it now include steps for github
 i am trying to learn github
+now trying to see pull effects
